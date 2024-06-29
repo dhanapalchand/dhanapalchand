@@ -8,7 +8,7 @@ Master of Science in Software Systems Student
 - 💞️ I’m looking to collaborate on Open AI with web
 - 😁 Ask about Tech Content
 - ⚡ How to reach me : ...<br/><br/>
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](https://dhanapaldhrashan001@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](dhanapaldhrashan001@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dhanapal-c-87b49121a)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/u/dhanapalchand/)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/+916374309485)
