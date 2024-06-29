@@ -6,7 +6,6 @@ Master of Science in Software Systems Student
 - 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning DSA and Spring Boot
 - 💞️ I’m looking to collaborate on Open AI with web
-- 📫 How to reach me dhanapaldhrashan001@gmail.com
 - 😁 Ask about Tech Content
 - ⚡ How to reach me : ...<br/><br/>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dhanapal-c-87b49121a)
