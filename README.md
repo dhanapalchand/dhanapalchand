@@ -27,7 +27,8 @@ Master of Science in Software Systems Student
   <img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>&nbsp;&nbsp;
   <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>&nbsp;&nbsp;
   <img width="50" height="50" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/>&nbsp;&nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>&nbsp;&nbsp;
+  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>&nbsp;&nbsp;
+  <img width="50" height="50" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>&nbsp;&nbsp;
 
 ## IDE and Tools I Use :
   <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>&nbsp;&nbsp;
