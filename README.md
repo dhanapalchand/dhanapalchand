@@ -38,7 +38,7 @@ Master of Science in Software Systems Student
   <img width="50" height="50" src="https://github.com/dhanapalchand/dhanapalchand/assets/134786639/c605f6a2-3fb3-40be-8c97-868ee00bb5c6" alt="git"/>&nbsp;&nbsp;
   <img width="50" height="50" src="https://github.com/dhanapalchand/dhanapalchand/assets/134786639/bfe42d45-0017-45d9-8169-ea80ff5e76ef" alt="git"/>&nbsp;&nbsp;
   <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>&nbsp;&nbsp;
-  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png" alt="external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo"/>&nbsp;&nbsp;
+ <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png" alt="external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo"/>&nbsp;&nbsp;
   <br/><br/>
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/dhanapalchand?theme=dark&font=Marcellus&ext=heatmap)
