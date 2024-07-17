@@ -4,7 +4,7 @@ Master of Science in Software Systems Student
 <img align="right" width="400" height="300" src="https://github.com/dhanapalchand/dhanapalchand/assets/134786639/31c8c17f-81d7-49df-b11b-b5eda09818d9">
 - 🏌️Here's my [portfolio](https://dhanapalchand.github.io/dhanapal-portfolio/)<br/>
 - 👀 I’m interested in Full Stack development
-- 🌱 I’m currently learning DSA and Spring Boot
+- 🌱 I’m currently learning DSA and .Net C#
 - 💞️ I’m looking to collaborate on Open AI with web
 - 😁 Ask about Tech Content
 - ⚡ How to reach me : ...<br/><br/>
